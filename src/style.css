@@ -1,0 +1,13 @@
+body{
+    font-family: "Anek Devanagari", sans-serif;
+    color: cornflowerblue;
+    text-align: center;
+    width: 800px;
+}
+#bloc1{
+    text-align: center;
+}
+#bloc2 ,img{
+    text-align: center;
+    height: 200px; width: 240px;
+}
