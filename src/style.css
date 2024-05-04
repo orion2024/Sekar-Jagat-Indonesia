@@ -1,13 +1,9 @@
-body{
-    font-family: "Anek Devanagari", sans-serif;
-    color: cornflowerblue;
-    text-align: center;
-    width: 800px;
+:root{
+    --bs-font-sans-serif: "monospace", sans-serif;
+    --bs-blue: #2067F5;
+    --bs-primary: #ff652f;
+    --bs-secondary: #ff652f;
 }
-#bloc1{
-    text-align: center;
-}
-#bloc2 ,img{
-    text-align: center;
-    height: 200px; width: 240px;
+h1 ,h2, h3, h4, h5, h6{
+    font-family: "monospace", sans-serif;
 }
